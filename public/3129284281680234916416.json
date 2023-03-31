@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33450027947",
+    "project_id": "instagram-guide-5a810",
+    "storage_bucket": "instagram-guide-5a810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33450027947:android:c1decdeb949429de4ec0ee",
+        "android_client_info": {
+          "package_name": "com.putriayu.instagram.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33450027947-43j7hrli26ug5o7d1fbd6s3qeoprrse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3m8bZTjnTPDe7EqgZX39hjMktBJKafJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33450027947-43j7hrli26ug5o7d1fbd6s3qeoprrse4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
